@@ -47,3 +47,4 @@ Thumbs.db
 # Project Storage (Local dev uploads)
 storage/uploads/*
 !storage/uploads/.gitkeep
+docs/*
